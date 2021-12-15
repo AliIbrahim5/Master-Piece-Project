@@ -23,14 +23,14 @@ A doctor can spend medication and write reports with your medical file, and he c
  
  ## User Stories
  
- **The user must have an account and be logged in if he wants to use the website features**
- **The logged-in user can book an appointment and see the medical file**
- **The user can log in on the website, book an appointment, request a private buyer and other medical services.**
- **A registered user can browse the web site without having to modify only for reading and viewing**
- **The user who logged in has their own file plate containing all their information and statistics.**
- **The  `admines` the login with the role has all the features of the regular user. Possible modification of patient information**
- **The user who logged in with the role can delete or modify with the time of modification and the `admin` name.**
- **The user has a login and has the role of a control board that contains all the information and statistics of the web site that enable them to control all patients.**
+ - **The user must have an account and be logged in if he wants to use the website features**
+ - **The logged-in user can book an appointment and see the medical file**
+ - **The user can log in on the website, book an appointment, request a private buyer and other medical services.**
+ - **A registered user can browse the web site without having to modify only for reading and viewing**
+ - **The user who logged in has their own file plate containing all their information and statistics.**
+ - **The  `admines` the login with the role has all the features of the regular user. Possible modification of patient information**
+ - **The user who logged in with the role can delete or modify with the time of modification and the `admin` name.**
+ - **The user has a login and has the role of a control board that contains all the information and statistics of the web site that enable them to control all    patients.**
  
  
  
